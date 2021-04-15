@@ -5,14 +5,14 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
-- 
-
-* System dependencies
-
-* Configuration
+* Ruby version : ruby 3.0.0
+ 
+* How to run : 
+git clone the repo, 
+bundle install
 
 * Database creation
+
 
 * Database initialization
 
