@@ -3,10 +3,10 @@
 ## How to run : 
 git clone this repo \
 go into the project directory \
-run `bundle install` \
+run `bundle install` 
  
-`rails db:seed` \
-`rails db:migrate`\
+`rails db:seed` 
+`rails db:migrate`
 
 After that \
 `rails s` to start the puma server \
