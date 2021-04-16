@@ -1,25 +1,13 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version : ruby 3.0.0
  
-* How to run : 
-git clone the repo, 
-bundle install
+## How to run : 
+git clone this repo \
+go into the project directory \
+run `bundle install` \
+ 
+`rails db:seed` \
+`rails db:migrate` \
 
-* Database creation
-
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+After that
+`rails s` to start the puma server
+go to http:localhost:3000/admin/ go to the administration panel
