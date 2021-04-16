@@ -16,6 +16,6 @@ ActiveAdmin.register User do
         f.input :email
         f.input :password_digest
       end
+      f.actions
     end
-  
   end
